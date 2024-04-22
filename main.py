@@ -9,7 +9,7 @@ import keyboard
 import sys
 import logic
 import time
-
+print('111')
 
 class Login(LoginWindow):
     def __init__(self):

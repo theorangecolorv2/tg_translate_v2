@@ -26,3 +26,4 @@ class Translator:
 
 tr = Translator()
 print(tr.translate('hello my dear frined'))
+print('111')
